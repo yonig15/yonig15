@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.tenor.com/S7fBzpUYjoAAAAAd/banner.gif))](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Yoni golan</h1>
 <h3 align="center">A passionate FullStack developer from Israel</h3>
