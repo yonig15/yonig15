@@ -1,5 +1,3 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://rishavchanda.io)
-[![MasterHead](https://www.globalsign.com/application/files/8716/8451/0374/Devsecops_GIF.gif)](https://rishavchanda.io)
 <table>
   <tr>
     <td>
