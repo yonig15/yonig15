@@ -1,9 +1,9 @@
 <div style="display: flex;">
   <a href="https://rishavchanda.io" style="flex: 1;">
-    <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="MasterHead" width="450" height="350">
+    <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="MasterHead" width="400" height="350">
   </a>
   <a href="https://rishavchanda.io" style="flex: 1;">
-    <img src="https://www.globalsign.com/application/files/8716/8451/0374/Devsecops_GIF.gif" alt="MasterHead" width="450" height="350">
+    <img src="https://www.globalsign.com/application/files/8716/8451/0374/Devsecops_GIF.gif" alt="MasterHead" width="400" height="350">
   </a>
 </div>
 
