@@ -1,13 +1,13 @@
-<table>
+<table style="border: none;">
   <tr>
-    <td>
+    <td style="border: none;">
       <a href="https://rishavchanda.io">
-        <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="MasterHead" width="500">
+        <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="MasterHead" width="450">
       </a>
     </td>
-    <td>
+    <td style="border: none;">
       <a href="https://rishavchanda.io">
-        <img src="https://www.globalsign.com/application/files/8716/8451/0374/Devsecops_GIF.gif" alt="MasterHead" width="500">
+        <img src="https://www.globalsign.com/application/files/8716/8451/0374/Devsecops_GIF.gif" alt="MasterHead" width="450">
       </a>
     </td>
   </tr>
