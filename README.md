@@ -1,4 +1,5 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.globalsign.com/application/files/8716/8451/0374/Devsecops_GIF.gif)](https://rishavchanda.io)
 https://www.globalsign.com/application/files/8716/8451/0374/Devsecops_GIF.gif
 <h1 align="center">Hi 👋, I'm Yoni golan</h1>
 <h3 align="center">A passionate Devops Engineer & FullStack developer from Israel</h3>
